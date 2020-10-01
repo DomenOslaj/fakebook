@@ -1,0 +1,35 @@
+.title {
+    font-size: 35px;
+    color: red;
+}
+
+.search:hover {
+    width: 500px;
+    height: 20px;
+    border: 1px solid grey;
+}
+
+img:hover {
+    border: 10px red solid;
+}
+
+img {
+    border: 6px black dotted;
+}
+
+
+#button {
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#button:hover {
+    background-color: yellow;
+    border: 1px solid grey;
+    border-radius: 1px;
+}
+
+.category {
+    text-align: center;
+    font-size: 18px;
+}
